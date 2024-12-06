@@ -32,4 +32,4 @@ python3 eval.py
 --output_log {path}
 ``` 
 
-The Results of Hop-0,Hop-1,Hop-2 and cognitive-Rag approaches are stored in evaluation_results.json
+The metric results of Hop-0,Hop-1,Hop-2 and cognitive-Rag approaches are stored in evaluation_results.json
